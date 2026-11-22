@@ -1,0 +1,4 @@
+build-fx/
+*.o
+*.obj
+assets/make_icon.py
